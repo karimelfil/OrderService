@@ -1,0 +1,55 @@
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.deps.json
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.runtimeconfig.json
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.dll
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.pdb
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.csproj.AssemblyReference.cache
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.AssemblyInfoInputs.cache
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.AssemblyInfo.cs
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderSer.D6F56851.Up2Date
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.dll
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\refint\OrderService.Persistence.dll
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.pdb
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.genruntimeconfig.cache
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\ref\OrderService.Persistence.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.deps.json
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.runtimeconfig.json
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.pdb
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Business.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Business.pdb
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.csproj.AssemblyReference.cache
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.AssemblyInfoInputs.cache
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.AssemblyInfo.cs
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderSer.D6F56851.Up2Date
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\refint\OrderService.Persistence.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.pdb
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.genruntimeconfig.cache
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\ref\OrderService.Persistence.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.deps.json
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.runtimeconfig.json
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Persistence.pdb
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Business.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Business.pdb
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.csproj.AssemblyReference.cache
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.AssemblyInfoInputs.cache
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.AssemblyInfo.cs
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderSer.D6F56851.Up2Date
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\refint\OrderService.Persistence.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.pdb
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\OrderService.Persistence.genruntimeconfig.cache
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Persistence\obj\Debug\net8.0\ref\OrderService.Persistence.dll

@@ -1,0 +1,33 @@
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.deps.json
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.dll
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\refint\OrderService.Domain.dll
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\karim.elfil\OneDrive - Montyholding\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\ref\OrderService.Domain.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.deps.json
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\refint\OrderService.Domain.dll
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\ref\OrderService.Domain.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.deps.json
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfoInputs.cache
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.AssemblyInfo.cs
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\refint\OrderService.Domain.dll
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\victus\Documents\OrdersProject\OrderService\OrderService.Domain\obj\Debug\net8.0\ref\OrderService.Domain.dll

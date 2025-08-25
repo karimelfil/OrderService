@@ -1,0 +1,1014 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\auth\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\createordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\createordersitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\createorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\createorderrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\customerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\customerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice.api\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.tests\\customerscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\customerscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\migrations\\20250703105057_itemslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\migrations\\20250703105057_itemslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.tests\\servicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\servicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.tests\\ordersservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\ordersservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.tests\\itemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\itemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.tests\\itemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\itemcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.tests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\customerservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB7D20E-A4E5-4E45-9BAD-35EBE62F23BC}|OrderService.Tests\\OrderService.Tests.csproj|solutionrelative:orderservice.tests\\authcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\iauthrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\iauthrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\procedureresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\procedureresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\iorderservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\iorderservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\repositories\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\orderservice.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\orderservice.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice.api\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.persistence\\contexts\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{619C6B0D-B871-4410-9494-32BC3EB592FD}|OrderService.Persistence\\OrderService.Persistence.csproj|solutionrelative:orderservice.persistence\\contexts\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\entities\\orderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\entities\\orderr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\entities\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\entities\\itemorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\entities\\itemorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\itemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\itemresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.business\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD75E3C-DB65-4DB5-AC97-5FB3D48DF86E}|OrderService.Business\\OrderService.Business.csproj|solutionrelative:orderservice.business\\interfaces\\iorderitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.api\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B1646D-B034-46F2-8CAF-3B1A93CC84F6}|OrderService.API\\OrderService.API.csproj|solutionrelative:orderservice.api\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\itemorderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\itemorderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\itemrequestdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\itemrequestdto .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\orderupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\orderupdaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\customerresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\victus\\documents\\ordersproject\\orderservice\\orderservice.domain\\model\\order\\createorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A172166-80F7-45D4-9650-5590163F8D86}|OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:orderservice.domain\\model\\order\\createorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOrdersItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CreateOrdersItemDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\CreateOrdersItemDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CreateOrdersItemDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\CreateOrdersItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:24:16.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService.API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:59:42.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "OrderService.Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:11:08.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OrderService.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OrderService.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:57:46.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Auth\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:09:43.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\RegisterRequest.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\RegisterRequest.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T12:54:06.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\appsettings.json",
+              "RelativeToolTip": "OrderService.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T11:18:10.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\RegisterResponse.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\RegisterResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T07:29:30.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\CustomerRequestDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CustomerRequestDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\CustomerRequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:26:57.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Auth\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Auth\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Auth\\LoginResponse.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Auth\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:09:45.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOrderRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CreateOrderRequestDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\CreateOrderRequestDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CreateOrderRequestDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\CreateOrderRequestDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:21:11.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "OrderService.API\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "OrderService.API\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:59:55.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Program.cs",
+              "RelativeToolTip": "OrderService.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:42:12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "OrderService.Domain\\Entities\\Item.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:05:44.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "OrderService.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:29:10.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250703105057_itemslist.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Migrations\\20250703105057_itemslist.cs",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\Migrations\\20250703105057_itemslist.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Migrations\\20250703105057_itemslist.cs",
+              "RelativeToolTip": "OrderService.Persistence\\Migrations\\20250703105057_itemslist.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:14:36.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomersControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\CustomersControllerTests.cs",
+              "RelativeDocumentMoniker": "OrderService.Tests\\CustomersControllerTests.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\CustomersControllerTests.cs",
+              "RelativeToolTip": "OrderService.Tests\\CustomersControllerTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:38:47.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "OrderService.API\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "OrderService.API\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:58:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\ServiceControllerTests.cs",
+              "RelativeDocumentMoniker": "OrderService.Tests\\ServiceControllerTests.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\ServiceControllerTests.cs",
+              "RelativeToolTip": "OrderService.Tests\\ServiceControllerTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:08:57.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrdersServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\OrdersServiceTests.cs",
+              "RelativeDocumentMoniker": "OrderService.Tests\\OrdersServiceTests.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\OrdersServiceTests.cs",
+              "RelativeToolTip": "OrderService.Tests\\OrdersServiceTests.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAADYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:03:18.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ItemServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\ItemServiceTests.cs",
+              "RelativeDocumentMoniker": "OrderService.Tests\\ItemServiceTests.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\ItemServiceTests.cs",
+              "RelativeToolTip": "OrderService.Tests\\ItemServiceTests.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:52:24.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "OrderService.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:09:32.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ItemControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\ItemControllerTests.cs",
+              "RelativeDocumentMoniker": "OrderService.Tests\\ItemControllerTests.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\ItemControllerTests.cs",
+              "RelativeToolTip": "OrderService.Tests\\ItemControllerTests.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:53:04.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\CustomerServiceTests.cs",
+              "RelativeDocumentMoniker": "OrderService.Tests\\CustomerServiceTests.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\CustomerServiceTests.cs",
+              "RelativeToolTip": "OrderService.Tests\\CustomerServiceTests.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:55:56.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "OrderService.Tests\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Tests\\AuthControllerTests.cs",
+              "RelativeToolTip": "OrderService.Tests\\AuthControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:26:22.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:01:28.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Services\\AuthService.cs",
+              "RelativeToolTip": "OrderService.Business\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:02:08.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:01:07.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthRepository .cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IAuthRepository .cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\IAuthRepository .cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IAuthRepository .cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\IAuthRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:00:57.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\Repositories\\AuthRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "OrderService.Persistence\\Repositories\\AuthRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:10:00.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IServiceRepository.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:02:00.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProcedureResult.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\ProcedureResult.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\ProcedureResult.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\ProcedureResult.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\ProcedureResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:01:26.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "OrderService.Persistence\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAADwv18AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:11:02.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "OrderService.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\OrderService.Persistence.csproj",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\OrderService.Persistence.csproj",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\OrderService.Persistence.csproj",
+              "RelativeToolTip": "OrderService.Persistence\\OrderService.Persistence.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-24T06:49:38.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:01:52.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IOrderServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IOrderServicecs.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\IOrderServicecs.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IOrderServicecs.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\IOrderServicecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:01:55.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Services\\OrdersService.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Services\\OrdersService.cs",
+              "RelativeToolTip": "OrderService.Business\\Services\\OrdersService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:00:17.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "OrderService.API\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "OrderService.API\\Controllers\\ItemController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:59:04.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IItemRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IItemRepository.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\IItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:01:35.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\Repositories\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\ItemRepository.cs",
+              "RelativeToolTip": "OrderService.Persistence\\Repositories\\ItemRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:10:36.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IItemService.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\IItemService.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IItemService.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\IItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:01:41.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Services\\ItemService.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Services\\ItemService.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Services\\ItemService.cs",
+              "RelativeToolTip": "OrderService.Business\\Services\\ItemService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:04:24.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:01:16.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Services\\CustomerService.cs",
+              "RelativeToolTip": "OrderService.Business\\Services\\CustomerService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAADwv0UAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:28:59.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "OrderService.Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wCAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:28:50.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Contexts\\DapperContext.cs",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\Contexts\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Contexts\\DapperContext.cs",
+              "RelativeToolTip": "OrderService.Persistence\\Contexts\\DapperContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:09:54.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "OrderService.Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:10:48.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Orderr.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Orderr.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Entities\\Orderr.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Orderr.cs",
+              "RelativeToolTip": "OrderService.Domain\\Entities\\Orderr.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:09:35.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "OrderService.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:09:29.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Login.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Entities\\Login.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\Login.cs",
+              "RelativeToolTip": "OrderService.Domain\\Entities\\Login.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:09:26.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ItemOrder.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\ItemOrder.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Entities\\ItemOrder.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Entities\\ItemOrder.cs",
+              "RelativeToolTip": "OrderService.Domain\\Entities\\ItemOrder.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:09:23.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ItemResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\ItemResponseDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\ItemResponseDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\ItemResponseDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\ItemResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:33:25.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IOrderItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeDocumentMoniker": "OrderService.Business\\Interfaces\\IOrderItemRepository.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Business\\Interfaces\\IOrderItemRepository.cs",
+              "RelativeToolTip": "OrderService.Business\\Interfaces\\IOrderItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T12:01:47.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "OrderService.API\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.API\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "OrderService.API\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:59:51.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "OrderUpdateRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\OrderUpdateRequestDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\OrderUpdateRequestDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\OrderUpdateRequestDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\OrderUpdateRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:33:42.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\OrderResponseDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\OrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\OrderResponseDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\OrderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:33:39.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ItemRequestDto .cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\ItemRequestDto .cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\ItemRequestDto .cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\ItemRequestDto .cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\ItemRequestDto .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:32:15.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ItemOrderUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\ItemOrderUpdateDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\ItemOrderUpdateDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\ItemOrderUpdateDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\ItemOrderUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:31:39.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\ItemDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\ItemDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\ItemDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\ItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:29:44.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CustomerUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CustomerUpdateDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\CustomerUpdateDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CustomerUpdateDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\CustomerUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:29:41.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CustomerResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CustomerResponseDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\CustomerResponseDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CustomerResponseDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\CustomerResponseDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:28:08.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CreateOrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CreateOrderResponseDto.cs",
+              "RelativeDocumentMoniker": "OrderService.Domain\\Model\\Order\\CreateOrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\victus\\Documents\\OrdersProject\\OrderService\\OrderService.Domain\\Model\\Order\\CreateOrderResponseDto.cs",
+              "RelativeToolTip": "OrderService.Domain\\Model\\Order\\CreateOrderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T11:24:05.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

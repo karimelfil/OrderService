@@ -1,0 +1,35 @@
+2025-07-09 09:15:29.161 +03:00 [INF] User profile is available. Using 'C:\Users\karim.elfil\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-07-09 09:15:29.447 +03:00 [INF] Now listening on: https://localhost:7096
+2025-07-09 09:15:29.449 +03:00 [INF] Now listening on: http://localhost:5102
+2025-07-09 09:15:29.780 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-09 09:15:29.783 +03:00 [INF] Hosting environment: Development
+2025-07-09 09:15:29.789 +03:00 [INF] Content root path: C:\Users\karim.elfil\Desktop\OrdersProject\OrderService\OrderService.API
+2025-07-09 09:15:31.003 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger - null null
+2025-07-09 09:15:31.267 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger - 301 0 null 265.4215ms
+2025-07-09 09:15:31.325 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - null null
+2025-07-09 09:15:31.344 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/_framework/aspnetcore-browser-refresh.js - 200 16517 application/javascript; charset=utf-8 18.8747ms
+2025-07-09 09:15:31.356 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/_vs/browserLink - null null
+2025-07-09 09:15:31.703 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/_vs/browserLink - 200 null text/javascript; charset=UTF-8 347.4012ms
+2025-07-09 09:15:31.816 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - null null
+2025-07-09 09:15:31.851 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 34.302ms
+2025-07-09 09:17:35.812 +03:00 [INF] Request starting HTTP/2 POST https://localhost:7096/api/auth/login - application/json 51
+2025-07-09 09:17:35.943 +03:00 [INF] Executing endpoint 'OrderService.API.Controllers.AuthController.Login (OrderService.API)'
+2025-07-09 09:17:36.001 +03:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(OrderService.Domain.Model.Auth.LoginRequest) on controller OrderService.API.Controllers.AuthController (OrderService.API).
+2025-07-09 09:17:37.209 +03:00 [INF] Executing OkObjectResult, writing value of type 'OrderService.Domain.Model.Auth.LoginResponse'.
+2025-07-09 09:17:37.242 +03:00 [INF] Executed action OrderService.API.Controllers.AuthController.Login (OrderService.API) in 1221.8219ms
+2025-07-09 09:17:37.247 +03:00 [INF] Executed endpoint 'OrderService.API.Controllers.AuthController.Login (OrderService.API)'
+2025-07-09 09:17:37.253 +03:00 [INF] Request finished HTTP/2 POST https://localhost:7096/api/auth/login - 200 null application/json; charset=utf-8 1433.8742ms
+2025-07-09 09:18:04.186 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7096/api/get/Orders/GetAllOrders - null null
+2025-07-09 09:18:04.252 +03:00 [INF] Token validated for user: karen
+2025-07-09 09:18:04.263 +03:00 [INF] Executing endpoint 'OrderService.API.Controllers.OrdersController.GetAllOrders (OrderService.API)'
+2025-07-09 09:18:04.274 +03:00 [INF] Route matched with {action = "GetAllOrders", controller = "Orders"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAllOrders() on controller OrderService.API.Controllers.OrdersController (OrderService.API).
+2025-07-09 09:18:04.338 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[OrderService.Domain.Entities.Order, OrderService.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-07-09 09:18:04.353 +03:00 [INF] Executed action OrderService.API.Controllers.OrdersController.GetAllOrders (OrderService.API) in 74.0253ms
+2025-07-09 09:18:04.355 +03:00 [INF] Executed endpoint 'OrderService.API.Controllers.OrdersController.GetAllOrders (OrderService.API)'
+2025-07-09 09:18:04.358 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7096/api/get/Orders/GetAllOrders - 200 null application/json; charset=utf-8 171.4725ms
+2025-07-09 09:18:15.552 +03:00 [INF] Request starting HTTP/1.1 GET https://localhost:7096/api/get/Orders/GetAllOrders - null null
+2025-07-09 09:18:15.564 +03:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (admin)
+2025-07-09 09:18:15.571 +03:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-07-09 09:18:15.576 +03:00 [INF] Request finished HTTP/1.1 GET https://localhost:7096/api/get/Orders/GetAllOrders - 401 0 null 23.8142ms
